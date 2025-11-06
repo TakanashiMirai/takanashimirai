@@ -16,7 +16,7 @@
     <img width="800" src="https://github-readme-activity-graph.vercel.app/graph?username=HoshikawaMiku&theme=github-compact&hide_border=true&area=true&custom_title=Activity%20Graph"   alt="Activity Graph" title="Activity Graph" />
 <p align="center">
     <!-- https://github.com/LelouchFR/skill-icons -->
-    <img width="800" src="https://go-skill-icons.vercel.app/api/icons?i=py,cpp,c,cs,matlab,unity&titles=true" alt="Skill Icons" title="Skill Icons">
+    <img width="800" src="https://go-skill-icons.vercel.app/api/icons?i=py,cpp,c,cs,matlab,unity,github,git,blender,au,ps,pr,ae,arduino,pycharm,clion,rider,visualstudio,vscode&titles=true" alt="Skill Icons" title="Skill Icons">
 </p>
 <p align="center">
     <!-- https://github.com/badges/shields --> 
