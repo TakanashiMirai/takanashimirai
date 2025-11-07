@@ -15,7 +15,7 @@
     <a href="https://github.com/HoshikawaMiku"><img src="https://komarev.com/ghpvc/?username=HoshikawaMiku&label=Profile+Views" alt="Profile Views" title="Profile Views" /></a>
 
 ## 🐱 About Me
-<img align= "right" width="400" src="https://github-readme-stats.vercel.app/api?username=HoshikawaMiku&theme=transparent&show_icons=true&hide_border=true&show=reviews,discussions_started&hide_title=true&hide=contribs&number_format=long&include_all_commits=true" alt="Profile Stats" title="Profile Stats" />
+<img align= "right" width="400" src="https://github-readme-stats.vercel.app/api?username=hoshikawamiku&theme=transparent&show_icons=true&hide_border=true&show=reviews,discussions_started&hide_title=true&hide=contribs&number_format=long&include_all_commits=true" alt="Profile Stats" title="Profile Stats" />
 
 - 🔭 In university study
 - 🌱 Now learning **stm32, Unity, Cangjie, ArkTs**
