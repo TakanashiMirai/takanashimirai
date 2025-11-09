@@ -3,7 +3,7 @@
 
 </p>
 <p align="center">
-    <img width="800" src="https://readme-typing-svg.demolab.com?font=Microsoft+YaHei&size=20&pause=1000&center=true&vCenter=true&random=false&width=600&lines=%e6%9c%9d%e7%9d%80%e6%88%91%e4%bb%ac%e6%89%80%e6%8f%8f%e7%bb%98%e7%9a%84%e6%9c%aa%e6%9d%a5%e8%80%8c%e5%8e%bb;Setting+forth+toward+the+future+we+envision;%e5%83%95%e3%82%89%e6%8f%8f%e3%81%84%e3%81%9f%e6%9c%aa%e6%9d%a5%e3%81%b8%0a" alt="Hello World" title="Hello World"/>
+    <img width="800" src="https://readme-typing-svg.demolab.com?font=Microsoft+YaHei&size=20&pause=1000&center=true&vCenter=true&random=false&width=600&lines=%e6%9c%9d%e7%9d%80%e6%88%91%e4%bb%ac%e6%89%80%e6%8f%8f%e7%bb%98%e7%9a%84%e6%9c%aa%e6%9d%a5%e8%80%8c%e5%8e%bb;Setting+forth+toward+the+future+we+envision;%e7%a7%81%e3%81%9f%e3%81%a1%e3%81%8c%e6%8f%8f%e3%81%84%e3%81%9f%e6%9c%aa%e6%9d%a5%e3%81%ab%e5%90%91%e3%81%8b%e3%81%a3%e3%81%a6" alt="Hello World" title="Hello World"/>
 
 </p>
 <p align="center">
