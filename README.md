@@ -18,7 +18,7 @@
 <img align= "right" width="400" src="https://github-readme-stats.vercel.app/api?username=hoshikawamiku&theme=transparent&show_icons=true&hide_border=true&show=reviews,discussions_started&hide_title=true&hide=contribs&number_format=long&include_all_commits=true" alt="Profile Stats" title="Profile Stats" />
 
 - 🔭 In university study
-- 🌱 Now learning **stm32, Unity, Cangjie, ArkTs**
+- 🌱 Now learning **stm32, Unity, Cangjie, ArkTS**
 - 💬 Ask me about **Game Develop, HarmonyOS Develop, Painting and Modeling Skills**Σ(°△°|||)
 - ⭐ Star my repositories if you find them interesting!
 - 📫 How to reach me: **hoshikawamiku@outlook.com**, Chinese, English and Japanese are accepted.
